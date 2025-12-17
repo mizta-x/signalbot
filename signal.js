@@ -3,7 +3,7 @@ const qrcode = require('qrcode-terminal');
 const readline = require('readline');
 
 // --- Configurations ---
-const API_URL = "http://localhost:2255";
+const API_URL = "http://localhost:8080";
 const BOT_NUMBER = "+94785124764"; // ඔබගේ Signal අංකය මෙතනට ඇතුළත් කරන්න
 
 /**
